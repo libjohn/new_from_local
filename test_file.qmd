@@ -2,7 +2,7 @@
 title: "starwars"
 author: "John Little"
 date: "`r Sys.Date()`"
-format: html
+format: pdf
 editor: visual
 ---
 
